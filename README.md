@@ -15,7 +15,6 @@ Project goals:
 - Saving of output-data for converted traces, local parameters, Trace fitting levels, histogram data, fit data
 - Saving of relevant plots with annotation
 
-
 Current problems/pre-patch notes:
 -
 
