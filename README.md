@@ -11,7 +11,7 @@ Project goals:
 - Automated estimation of local parameters (blinking- and bleaching-events).
 - Application of local parameters (categorization according to groups, truncation of traces before blinking/bleaching).
 - Visualization of datasets (trace-wise with/without applied parameters, global histograms).
-- Fitting of step function to individual traces (see github.com/LandesLab for implementation in MatLab).
+- Fitting of step function to individual traces (see github.com/LandesLab/StaSi for implementation in MatLab).
 - Creation of FRET-Histograms with variable bin sizes (see matplotlib documentation for matplotlib.pyplot.hist) both for raw and fitted data.
 - Fitting of 1-5gaussian functions to histograms.
 - Saving of output-data for converted traces, local parameters, Trace fitting levels, histogram data, fit data.
