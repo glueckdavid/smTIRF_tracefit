@@ -1,4 +1,5 @@
 # smTIRF_tracefit
+# SK biophysics work group
 Shared repository for upload, discussion and troubleshooting of smTIRF scripts.
 
 This ReadMe-file serves as a notepad for project goals, problems and points of discussion.
