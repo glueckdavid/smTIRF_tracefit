@@ -1,4 +1,4 @@
-# smTIRF_tracefit (MIchael Kirchmeyr, David Glück)
+# smTIRF_tracefit (Michael Kirchmeyr, David Glück)
 Shared repository for upload, discussion and troubleshooting of smTIRF scripts.
 
 This ReadMe-file serves as a notepad for project goals, problems and points of discussion.
