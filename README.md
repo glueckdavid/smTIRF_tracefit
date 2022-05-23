@@ -2,6 +2,7 @@
 Shared repository for upload, discussion and troubleshooting of smTIRF scripts.
 
 This ReadMe-file serves as a notepad for project goals, problems and points of discussion.
+Edit and directly commit this file to post any comments or bulletpoints.
 
 Project goals:
 - 
