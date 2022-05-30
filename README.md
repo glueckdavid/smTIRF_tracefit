@@ -4,6 +4,15 @@ Shared repository for upload, discussion and troubleshooting of smTIRF scripts.
 This ReadMe-file serves as a notepad for project goals, problems and points of discussion.
 Edit and directly commit this file to post any comments or bulletpoints.
 
+
+Short term goals:
+-
+- Finish the current script as "Trace import and data clean-up".
+- Export trace files as csv files for further handling.
+- Apply Haar-wavelet transform to single molecule FRET traces.
+- Display high frequency noise features as time-dependent curve.
+
+
 Project goals:
 - 
 - Ingestion of single molecule trace files created by the Oxford Nanoimager.
