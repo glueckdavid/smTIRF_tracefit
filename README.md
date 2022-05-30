@@ -8,7 +8,7 @@ Edit and directly commit this file to post any comments or bulletpoints.
 Short term goals:
 -
 - Finish the current script as "Trace import and data clean-up".
-- Export trace files as csv files for further handling.
+- Export traces as csv files for further handling.
 - Apply Haar-wavelet transform to single molecule FRET traces.
 - Display high frequency noise features as time-dependent curve.
 
